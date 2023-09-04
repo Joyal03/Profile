@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Cyril</h1>
+<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm George</h1>
 
 - 🔭 Specialising</i> in <b> AI&DS
 -  &#9997; Learner | Tech-enthusiast</b>
