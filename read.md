@@ -26,4 +26,4 @@
 </p>
 
 ## ❤ Followers
-<a href="https://github.com/cks844?tab=followers"><img src="https://img.shields.io/github/followers/cks844?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Joyal03?tab=followers"><img src="https://img.shields.io/github/followers/cks844?label=Followers&style=social" alt="GitHub Badge"></a>
