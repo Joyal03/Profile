@@ -21,7 +21,7 @@
 <a href = "https://www.linkedin.com/in/george-joyal-9467b721b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Joyal_George21"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/joyal._.george/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/cyril.ksony">
+<a href = "https://www.instagram.com/joyal._.george/">
 <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 </p>
 
